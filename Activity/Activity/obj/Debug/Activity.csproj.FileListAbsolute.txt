@@ -1,0 +1,53 @@
+C:\Users\mateja\Desktop\act\Activity\Activity\bin\Debug\Activity.exe.config
+C:\Users\mateja\Desktop\act\Activity\Activity\bin\Debug\Activity.exe
+C:\Users\mateja\Desktop\act\Activity\Activity\bin\Debug\Activity.pdb
+C:\Users\mateja\Desktop\act\Activity\Activity\obj\Debug\Activity.csprojResolveAssemblyReference.cache
+C:\Users\mateja\Desktop\act\Activity\Activity\obj\Debug\Activity.Form1.resources
+C:\Users\mateja\Desktop\act\Activity\Activity\obj\Debug\Activity.Properties.Resources.resources
+C:\Users\mateja\Desktop\act\Activity\Activity\obj\Debug\Activity.csproj.GenerateResource.Cache
+C:\Users\mateja\Desktop\act\Activity\Activity\obj\Debug\Activity.exe
+C:\Users\mateja\Desktop\act\Activity\Activity\obj\Debug\Activity.pdb
+C:\Users\mateja\Desktop\Activity\Activity\bin\Debug\Activity.exe.config
+C:\Users\mateja\Desktop\Activity\Activity\obj\Debug\Activity.exe
+C:\Users\mateja\Desktop\Activity\Activity\obj\Debug\Activity.pdb
+C:\Users\mateja\Desktop\Activity\Activity\bin\Debug\Activity.exe
+C:\Users\mateja\Desktop\Activity\Activity\bin\Debug\Activity.pdb
+C:\Users\mateja\Desktop\Activity\Activity\obj\Debug\Activity.csprojResolveAssemblyReference.cache
+C:\Users\mateja\Desktop\Activity\Activity\obj\Debug\Activity.Form1.resources
+C:\Users\mateja\Desktop\Activity\Activity\obj\Debug\Activity.Properties.Resources.resources
+C:\Users\mateja\Desktop\Activity\Activity\obj\Debug\Activity.csproj.GenerateResource.Cache
+C:\Users\mateja\Desktop\New folder\Activity\Activity\bin\Debug\Activity.exe.config
+C:\Users\mateja\Desktop\New folder\Activity\Activity\obj\Debug\Activity.exe
+C:\Users\mateja\Desktop\New folder\Activity\Activity\obj\Debug\Activity.pdb
+C:\Users\mateja\Desktop\New folder\Activity\Activity\bin\Debug\Activity.exe
+C:\Users\mateja\Desktop\New folder\Activity\Activity\bin\Debug\Activity.pdb
+C:\Users\mateja\Desktop\New folder\Activity\Activity\obj\Debug\Activity.csprojResolveAssemblyReference.cache
+C:\Users\mateja\Desktop\New folder\Activity\Activity\obj\Debug\Activity.Form1.resources
+C:\Users\mateja\Desktop\New folder\Activity\Activity\obj\Debug\Activity.Properties.Resources.resources
+C:\Users\mateja\Desktop\New folder\Activity\Activity\obj\Debug\Activity.csproj.GenerateResource.Cache
+C:\Users\mateja\Desktop\New folder\Activity\Activity\obj\Debug\Activity.Navodila.resources
+C:\Users\mateja\Desktop\PROG3-seminarska\Activity\Activity\bin\Debug\Activity.exe.config
+C:\Users\mateja\Desktop\PROG3-seminarska\Activity\Activity\obj\Debug\Activity.exe
+C:\Users\mateja\Desktop\PROG3-seminarska\Activity\Activity\obj\Debug\Activity.pdb
+C:\Users\mateja\Desktop\PROG3-seminarska\Activity\Activity\bin\Debug\Activity.exe
+C:\Users\mateja\Desktop\PROG3-seminarska\Activity\Activity\bin\Debug\Activity.pdb
+C:\Users\mateja\Desktop\PROG3-seminarska\Activity\Activity\obj\Debug\Activity.csprojResolveAssemblyReference.cache
+C:\Users\mateja\Desktop\PROG3-seminarska\Activity\Activity\obj\Debug\Activity.Form1.resources
+C:\Users\mateja\Desktop\PROG3-seminarska\Activity\Activity\obj\Debug\Activity.ImenaEkip.resources
+C:\Users\mateja\Desktop\PROG3-seminarska\Activity\Activity\obj\Debug\Activity.Navodila.resources
+C:\Users\mateja\Desktop\PROG3-seminarska\Activity\Activity\obj\Debug\Activity.Properties.Resources.resources
+C:\Users\mateja\Desktop\PROG3-seminarska\Activity\Activity\obj\Debug\Activity.csproj.GenerateResource.Cache
+C:\Users\mateja\Desktop\SeminarskaP3_MatejaRoglic\Activity\Activity\bin\Debug\Activity.exe.config
+C:\Users\mateja\Desktop\SeminarskaP3_MatejaRoglic\Activity\Activity\obj\Debug\Activity.exe
+C:\Users\mateja\Desktop\SeminarskaP3_MatejaRoglic\Activity\Activity\obj\Debug\Activity.pdb
+C:\Users\mateja\Desktop\SeminarskaP3_MatejaRoglic\Activity\Activity\bin\Debug\Activity.exe
+C:\Users\mateja\Desktop\SeminarskaP3_MatejaRoglic\Activity\Activity\bin\Debug\Activity.pdb
+C:\Users\mateja\Desktop\SeminarskaP3_MatejaRoglic\Activity\Activity\obj\Debug\Activity.csprojResolveAssemblyReference.cache
+C:\Users\mateja\Desktop\SeminarskaP3_MatejaRoglic\Activity\Activity\obj\Debug\Activity.Form1.resources
+C:\Users\mateja\Desktop\SeminarskaP3_MatejaRoglic\Activity\Activity\obj\Debug\Activity.ImenaEkip.resources
+C:\Users\mateja\Desktop\SeminarskaP3_MatejaRoglic\Activity\Activity\obj\Debug\Activity.Navodila.resources
+C:\Users\mateja\Desktop\SeminarskaP3_MatejaRoglic\Activity\Activity\obj\Debug\Activity.Properties.Resources.resources
+C:\Users\mateja\Desktop\SeminarskaP3_MatejaRoglic\Activity\Activity\obj\Debug\Activity.csproj.GenerateResource.Cache
+C:\Users\mateja\Desktop\SPLETNA UČILNICA\3.letnik\PROGRAMIRANJE 3\SeminarskaP3_MatejaRoglic\Activity\Activity\bin\Debug\Activity.exe.config
+C:\Users\mateja\Desktop\SPLETNA UČILNICA\3.letnik\PROGRAMIRANJE 3\SeminarskaP3_MatejaRoglic\Activity\Activity\obj\Debug\Activity.exe
+C:\Users\mateja\Desktop\SPLETNA UČILNICA\3.letnik\PROGRAMIRANJE 3\SeminarskaP3_MatejaRoglic\Activity\Activity\obj\Debug\Activity.pdb
